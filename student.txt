@@ -1,3 +1,6 @@
-PPublic:AnuragCourse: Python
+Name: Ragini
+Course: Python
 Level: Beginner
-Public:AnuragPublic:Anurag
+Company:FBIS
+tenure:45days
+learning python
